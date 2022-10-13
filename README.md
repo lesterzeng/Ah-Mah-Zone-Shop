@@ -2,7 +2,11 @@
 
 ![Ah Mah Zone Shop](/frontend/public/images/Ah%20Mah%20Shop%20Zone.png)
 
-Objective : To create an e-commerce app that used could shop, add items to the cart, filled in shipping details, make payment and place orders.
+## Demo Website
+
+- 👉 Heroku : https://ahmanzoneshop.herokuapp.com/
+
+  Objective : To create an e-commerce app that used could shop, add items to the cart, filled in shipping details, make payment and place orders.
 
 Challenges: There were some components that had to stay responsive while navigating the app, for example;
 
