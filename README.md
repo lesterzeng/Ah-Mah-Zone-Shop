@@ -1,5 +1,7 @@
 # Ah Mah Zone Shop
 
+![Ah Mah Zone Shop](/Users/lesterzeng/Documents/GitHub/Ah Mah Zone Shop V2/frontend/public/images/Ah Mah Shop Zone.png)
+
 Objective : To create an e-commerce app that used could shop, add items to the cart, filled in shipping details, make payment and place orders.
 
 Challenges: There were some components that had to stay responsive while navigating the app, for example;

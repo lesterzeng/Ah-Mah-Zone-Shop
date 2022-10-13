@@ -11,10 +11,10 @@ seedProduct.get("/", async (req, res) => {
   // res.send({ createProducts });
   // console.log("products seeded");
   //////
-  await User.remove({});
-  const createUsers = await User.insertMany(itemsData.users);
-  res.send({ createUsers });
-  console.log("users seeded");
+  // await User.remove({});
+  // const createUsers = await User.insertMany(itemsData.users);
+  // res.send({ createUsers });
+  // console.log("users seeded");
 });
 
 export default seedProduct;
