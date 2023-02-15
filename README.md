@@ -4,7 +4,8 @@
 
 ## Demo Website
 
-- 	~~Heroku : https://ahmanzoneshop.herokuapp.com/~~ _Deployment pending. Heroku no longer supports free dynos for free users, which is required for deployment._
+- 	~~Heroku : https://ahmanzoneshop.herokuapp.com/~~ _
+- 	Deployment pending. Heroku no longer supports free dynos for free users, which is required for deployment._
 
   Objective : To create an e-commerce app that used could shop, add items to the cart, filled in shipping details, make payment and place orders.
 
